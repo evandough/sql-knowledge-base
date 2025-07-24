@@ -2,8 +2,8 @@
 This repository documents my journey through SQL, covering everything from basic queries to advanced database operations. Each section includes detailed explanations, practical examples, and real-world applications to reinforce learning concepts.
 
 ## Technologies
-- Database: PostgreSQL 15+
-- Management Tool: pgAdmin 4
+- **Database**: PostgreSQL 15+
+- **Management Tool**: pgAdmin 4
 
 ## Repo Structure
 - **`sql-knowledge-base/`**
